@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="correct_answer">#41e744</color>
+    <color name="purple">#673AB7</color>
+    <color name="selecting_answer">#17a7c4</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="wrong_answer">#F44336</color>
+    <string name="app_name">B2012051_QuizApp</string>
+    <style name="Base.Theme.B2012051_QuizApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.B2012051_QuizApp" parent="Base.Theme.B2012051_QuizApp"/>
+</resources>
