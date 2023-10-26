@@ -10,7 +10,7 @@ import com.example.b2012051_newsmanagement.data.News
 import com.google.android.material.snackbar.Snackbar
 
 class UpdateNewsActivity : AppCompatActivity() {
-    private lateinit var binding : ActivityUpdateNewsBinding
+    private lateinit var binding: ActivityUpdateNewsBinding
     private lateinit var news: News
     private var newsId = 0
     private var defaultTitle = ""
@@ -47,13 +47,17 @@ class UpdateNewsActivity : AppCompatActivity() {
                     newsDB.doa().updateNews(news)
                     finish()
                 } else {
-                    Snackbar.make(it, "Title and Description can't be empty!!!", Snackbar.LENGTH_LONG).show()
+                    Snackbar.make(
+                        it,
+                        "Title and Description can't be empty!!!",
+                        Snackbar.LENGTH_LONG
+                    ).show()
                 }
             }
         }
     }
 
-    private val newsDB : NewsDatabase by lazy {
+    private val newsDB: NewsDatabase by lazy {
         Room.databaseBuilder(this, NewsDatabase::class.java, Constants.NEWS_DATABASE)
             .allowMainThreadQueries()
             .fallbackToDestructiveMigration()

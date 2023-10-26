@@ -5,6 +5,7 @@ import android.content.Context
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
+import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.AsyncListDiffer
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
@@ -13,11 +14,11 @@ import com.example.b2012051_newsmanagement.databinding.ItemNewsBinding
 import com.example.b2012051_newsmanagement.data.News
 
 class NewsAdapter : RecyclerView.Adapter<NewsAdapter.ViewHolder>() {
-    private lateinit var binding : ItemNewsBinding
-    private lateinit var context : Context
+    private lateinit var binding: ItemNewsBinding
+    private lateinit var context: Context
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): NewsAdapter.ViewHolder {
-       var inflater = LayoutInflater.from(parent.context)
+        val inflater = LayoutInflater.from(parent.context)
         binding = ItemNewsBinding.inflate(inflater, parent, false)
         context = parent.context
         return ViewHolder()
@@ -32,12 +33,13 @@ class NewsAdapter : RecyclerView.Adapter<NewsAdapter.ViewHolder>() {
         return differ.currentList.size
     }
 
+
     inner class ViewHolder : RecyclerView.ViewHolder(binding.root) {
         @SuppressLint("SetTextI18n")
-        fun bind(item : News) {
+        fun bind(item: News) {
             binding.apply {
-                tvTitle.text = item.newsTitle;
-                tvDesc.text = item.newsDesc;
+                tvTitle.text = item.newsTitle
+                tvDesc.text = item.newsDesc
 
                 root.setOnClickListener {
                     val intent = Intent(context, UpdateNewsActivity::class.java)
@@ -56,8 +58,9 @@ class NewsAdapter : RecyclerView.Adapter<NewsAdapter.ViewHolder>() {
         override fun areContentsTheSame(oldItem: News, newItem: News): Boolean {
             return oldItem == newItem
         }
-
     }
 
+
     val differ = AsyncListDiffer(this, differCallback)
+
 }
