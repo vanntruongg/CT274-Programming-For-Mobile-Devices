@@ -5,8 +5,10 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView.Adapter
 import androidx.room.Room
 import com.example.b2012051_newsmanagement.constant.Constants
+import com.example.b2012051_newsmanagement.data.News
 import com.example.b2012051_newsmanagement.data.NewsDatabase
 import com.example.b2012051_newsmanagement.databinding.ActivityMainBinding
 
@@ -44,6 +46,7 @@ class MainActivity : AppCompatActivity() {
             if(newsDB.doa().getAllNews().isNotEmpty()) {
                 rvNewsList.visibility = View.VISIBLE
                 tvEmptyText.visibility = View.GONE
+                newsAdapter.differ.submitList(null)
                 newsAdapter.differ.submitList(newsDB.doa().getAllNews())
                 setupRecyclerView()
             } else {
