@@ -34,6 +34,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="#8013ee"
             android:onClick="onDigit"
             android:text="7"
             android:textSize="32sp" />
@@ -45,6 +46,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="#8013ee"
             android:onClick="onDigit"
             android:text="8"
             android:textSize="32sp" />
@@ -56,6 +58,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="#8013ee"
             android:onClick="onDigit"
             android:text="9"
             android:textSize="32sp" />
@@ -67,10 +70,13 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="@color/white"
             android:onClick="onOperator"
             android:text="/"
+            android:textColor="#d1790e"
             android:textSize="32sp" />
     </LinearLayout>
+
     <LinearLayout
         android:id="@+id/LLTwo"
         android:layout_width="match_parent"
@@ -86,6 +92,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="#8013ee"
             android:onClick="onDigit"
             android:text="4"
             android:textSize="32sp" />
@@ -97,6 +104,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="#8013ee"
             android:onClick="onDigit"
             android:text="5"
             android:textSize="32sp" />
@@ -108,6 +116,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="#8013ee"
             android:onClick="onDigit"
             android:text="6"
             android:textSize="32sp" />
@@ -119,10 +128,13 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="@color/white"
             android:onClick="onOperator"
             android:text="*"
+            android:textColor="#d1790e"
             android:textSize="32sp" />
     </LinearLayout>
+
     <LinearLayout
         android:id="@+id/LLThree"
         android:layout_width="match_parent"
@@ -138,6 +150,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="#8013ee"
             android:onClick="onDigit"
             android:text="1"
             android:textSize="32sp" />
@@ -149,6 +162,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="#8013ee"
             android:onClick="onDigit"
             android:text="2"
             android:textSize="32sp" />
@@ -160,6 +174,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="#8013ee"
             android:onClick="onDigit"
             android:text="3"
             android:textSize="32sp" />
@@ -171,10 +186,13 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="@color/white"
             android:onClick="onOperator"
             android:text="-"
+            android:textColor="#d1790e"
             android:textSize="32sp" />
     </LinearLayout>
+
     <LinearLayout
         android:id="@+id/LLFour"
         android:layout_width="match_parent"
@@ -190,6 +208,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="#8013ee"
             android:onClick="onDecimalPoint"
             android:text="."
             android:textSize="32sp" />
@@ -201,6 +220,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="#8013ee"
             android:onClick="onDigit"
             android:text="0"
             android:textSize="32sp" />
@@ -212,8 +232,10 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="@color/white"
             android:onClick="onClear"
             android:text="CLR"
+            android:textColor="#d1790e"
             android:textSize="24sp" />
 
         <Button
@@ -223,23 +245,29 @@
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
+            android:backgroundTint="@color/white"
             android:onClick="onOperator"
             android:text="+"
+            android:textColor="#d1790e"
             android:textSize="32sp" />
     </LinearLayout>
+
     <LinearLayout
         android:id="@+id/LLFive"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:orientation="horizontal">
+
         <Button
-            android:layout_marginStart="5dp"
-            android:layout_marginEnd="5dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:backgroundTint="#d1790e"
             android:onClick="onEqual"
-            android:textSize="32sp"
-            android:text="="/>
+            android:text="="
+            android:textColor="@color/white"
+            android:textSize="32sp" />
     </LinearLayout>
 </LinearLayout>

@@ -1,166 +1,150 @@
 [
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_logo_tottenham.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_logo_tottenham.jpg"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_bg_real_madrid.jpg.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_bg_real_madrid.jpg"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\layout\\activity_main.xml"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_button_background.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\button_background.xml"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_bg_1.jpg.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_bg_1.jpg"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_wrong_border.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\wrong_border.xml"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_logo_real_sociedad.jpg.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_logo_real_sociedad.jpg"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_cup.png.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_cup.png"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_cup.png.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_cup.png"
+    },
+    {
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_logo_real.jpg.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_logo_real.jpg"
+    },
+    {
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_bg_atletico_madrid.jpg.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_bg_atletico_madrid.jpg"
+    },
+    {
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_bg_tottenham.jpg.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_bg_tottenham.jpg"
     },
     {
         "merged": "com.example.b2012051_quizapp-merged_res-31:/layout_activity_quiz_question.xml.flat",
         "source": "com.example.b2012051_quizapp-main-33:/layout/activity_quiz_question.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_bg_napoli.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_bg_napoli.jpg"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_bg_sociedad.jpg.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_bg_sociedad.jpg"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_logo_atleticomadrid.jpg.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_logo_atleticomadrid.jpg"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_correct_border.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\correct_border.xml"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_bg.jpg.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_bg.jpg"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_logo_napoli.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_logo_napoli.jpg"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_logo_atleticomadrid.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_logo_atleticomadrid.jpg"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/layout_activity_result.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/layout/activity_result.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\xml\\backup_rules.xml"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_wrong_border.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/wrong_border.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_logo_mancity.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_logo_mancity.jpg"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/mipmap-anydpi/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_default_border.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\default_border.xml"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_bg_tottenham.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_bg_tottenham.jpg"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_selecting_border.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\selecting_border.xml"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_selecting_border.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/selecting_border.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_logo_napoli.jpg.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_logo_napoli.jpg"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_button_background.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/button_background.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_bg_atletico_madrid.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_bg_atletico_madrid.jpg"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_logo_liverpool.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_logo_liverpool.jpg"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_logo_real_sociedad.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_logo_real_sociedad.jpg"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_logo_tottenham.jpg.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_logo_tottenham.jpg"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_default_border.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/default_border.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_correct_border.xml.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/correct_border.xml"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_bg.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_bg.jpg"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\layout_activity_result.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\layout\\activity_result.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_bg_real_madrid.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_bg_real_madrid.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_bg_1.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_bg_1.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\mipmap-anydpi\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_logo_bayern.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_logo_bayern.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\layout_activity_quiz_question.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\layout\\activity_quiz_question.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_bg_sociedad.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_bg_sociedad.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\drawable_ic_logo_real.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\drawable\\ic_logo_real.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_quizapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.b2012051_quizapp-merged_res-31:/drawable_ic_bg_napoli.jpg.flat",
+        "source": "com.example.b2012051_quizapp-main-33:/drawable/ic_bg_napoli.jpg"
     }
 ]

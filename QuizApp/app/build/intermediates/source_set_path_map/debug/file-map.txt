@@ -25,10 +25,10 @@ com.example.b2012051_quizapp-lifecycle-viewmodel-2.6.1-23 C:\Users\Lenovo\.gradl
 com.example.b2012051_quizapp-core-ktx-1.9.0-24 C:\Users\Lenovo\.gradle\caches\transforms-3\f40534497e56e61b6341f95715d4b451\transformed\core-ktx-1.9.0\res
 com.example.b2012051_quizapp-cardview-1.0.0-25 C:\Users\Lenovo\.gradle\caches\transforms-3\f6258c9338dc0fe367c50f1f943dd550\transformed\cardview-1.0.0\res
 com.example.b2012051_quizapp-lifecycle-viewmodel-savedstate-2.6.1-26 C:\Users\Lenovo\.gradle\caches\transforms-3\f65fc4e33e9c6690c14e4fbae46679d5\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
-com.example.b2012051_quizapp-pngs-27 D:\android\B2012051_QuizApp\app\build\generated\res\pngs\debug
-com.example.b2012051_quizapp-resValues-28 D:\android\B2012051_QuizApp\app\build\generated\res\resValues\debug
-com.example.b2012051_quizapp-packageDebugResources-29 D:\android\B2012051_QuizApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.b2012051_quizapp-packageDebugResources-30 D:\android\B2012051_QuizApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.b2012051_quizapp-merged_res-31 D:\android\B2012051_QuizApp\app\build\intermediates\merged_res\debug
-com.example.b2012051_quizapp-debug-32 D:\android\B2012051_QuizApp\app\src\debug\res
-com.example.b2012051_quizapp-main-33 D:\android\B2012051_QuizApp\app\src\main\res
+com.example.b2012051_quizapp-pngs-27 D:\android\ct274-kotlin\QuizApp\app\build\generated\res\pngs\debug
+com.example.b2012051_quizapp-resValues-28 D:\android\ct274-kotlin\QuizApp\app\build\generated\res\resValues\debug
+com.example.b2012051_quizapp-packageDebugResources-29 D:\android\ct274-kotlin\QuizApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.b2012051_quizapp-packageDebugResources-30 D:\android\ct274-kotlin\QuizApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.b2012051_quizapp-merged_res-31 D:\android\ct274-kotlin\QuizApp\app\build\intermediates\merged_res\debug
+com.example.b2012051_quizapp-debug-32 D:\android\ct274-kotlin\QuizApp\app\src\debug\res
+com.example.b2012051_quizapp-main-33 D:\android\ct274-kotlin\QuizApp\app\src\main\res

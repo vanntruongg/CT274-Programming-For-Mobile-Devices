@@ -4,14 +4,14 @@
             "outputFile": "com.example.b2012051_quizapp-mergeDebugResources-29:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\android\\B2012051_QuizApp\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "D:\\android\\ct274-kotlin\\QuizApp\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "100",
+                        "startOffsets": "102",
                         "endLines": "5",
                         "endColumns": "12",
-                        "endOffsets": "323"
+                        "endOffsets": "328"
                     },
                     "to": {
                         "startLines": "2",

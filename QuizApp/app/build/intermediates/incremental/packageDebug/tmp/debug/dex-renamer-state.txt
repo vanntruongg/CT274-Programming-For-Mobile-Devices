@@ -1,7 +1,7 @@
-#Thu Oct 19 16:02:43 ICT 2023
-base.0=D\:\\android\\B2012051_QuizApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=D\:\\android\\B2012051_QuizApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=D\:\\android\\B2012051_QuizApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+#Fri Oct 27 01:23:58 ICT 2023
+base.0=D\:\\android\\ct274-kotlin\\QuizApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\android\\ct274-kotlin\\QuizApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\android\\ct274-kotlin\\QuizApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=7/classes.dex

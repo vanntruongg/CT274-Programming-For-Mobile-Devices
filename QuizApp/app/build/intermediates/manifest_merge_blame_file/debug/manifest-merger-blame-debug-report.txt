@@ -20,57 +20,57 @@
 15-->[androidx.core:core:1.9.0] C:\Users\Lenovo\.gradle\caches\transforms-3\3c11ddf1f1ffbda5ee4d54edb6c4ee68\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:5:5-31:19
+17-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:5:5-31:19
 18        android:allowBackup="true"
-18-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:6:9-35
+18-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.9.0] C:\Users\Lenovo\.gradle\caches\transforms-3\3c11ddf1f1ffbda5ee4d54edb6c4ee68\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:7:9-65
+20-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:fullBackupContent="@xml/backup_rules"
-23-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:8:9-54
+23-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:8:9-54
 24        android:icon="@mipmap/ic_launcher"
-24-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:9:9-43
+24-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:9:9-43
 25        android:label="@string/app_name"
-25-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:10:9-41
+25-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:10:9-41
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:11:9-54
+26-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:11:9-54
 27        android:supportsRtl="true"
-27-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:12:9-35
+27-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:12:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar" >
-29-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:13:9-77
+29-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:13:9-77
 30        <activity
-30-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:15:9-17:40
+30-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:15:9-17:40
 31            android:name="com.example.b2012051_quizapp.ResultActivity"
-31-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:16:13-43
+31-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:16:13-43
 32            android:exported="false" />
-32-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:17:13-37
+32-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:17:13-37
 33        <activity
-33-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:18:9-20:40
+33-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:18:9-20:40
 34            android:name="com.example.b2012051_quizapp.QuizQuestionActivity"
-34-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:19:13-49
+34-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:19:13-49
 35            android:exported="false" />
-35-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:20:13-37
+35-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:20:13-37
 36        <activity
-36-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:21:9-30:20
+36-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:21:9-30:20
 37            android:name="com.example.b2012051_quizapp.MainActivity"
-37-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:22:13-41
+37-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:22:13-41
 38            android:exported="true"
-38-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:23:13-36
+38-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:23:13-36
 39            android:screenOrientation="portrait" >
-39-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:24:13-49
+39-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:24:13-49
 40            <intent-filter>
-40-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:25:13-29:29
+40-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:25:13-29:29
 41                <action android:name="android.intent.action.MAIN" />
-41-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:26:17-69
-41-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:26:25-66
+41-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:26:17-69
+41-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:26:25-66
 42
 43                <category android:name="android.intent.category.LAUNCHER" />
-43-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:28:17-77
-43-->D:\android\B2012051_QuizApp\app\src\main\AndroidManifest.xml:28:27-74
+43-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:28:17-77
+43-->D:\android\ct274-kotlin\QuizApp\app\src\main\AndroidManifest.xml:28:27-74
 44            </intent-filter>
 45        </activity>
 46
