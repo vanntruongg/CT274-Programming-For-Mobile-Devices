@@ -12,6 +12,8 @@
     </tr>
 </table>
 
+- Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/master/Calculator
+
 **2. Quiz App**
 <table>
     <tr>
@@ -23,7 +25,10 @@
         <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/5e5180ee-282c-4b1c-ab94-e9e2ea0da754" alt="Image 4" width="210" height="400"></td>
     </tr>
 </table>
+
 Demo: https://drive.google.com/file/d/1ruokNfSpGAdV0fEV6PX5Sj4uPGYS5uS4/view
+
+Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/master/QuizApp
 
 **3. Task Management**
 
@@ -42,6 +47,8 @@ Demo: https://drive.google.com/file/d/1ruokNfSpGAdV0fEV6PX5Sj4uPGYS5uS4/view
         <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/36e77db4-e36e-4c5b-bac3-9c1a125cc974" alt="Image 3" width="210" height="400"></td>
     </tr>
 </table>
+
+Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/master/News
 
 **4. ...**
 
