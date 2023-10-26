@@ -48,7 +48,7 @@ Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/m
     </tr>
 </table>
 
-Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/master/News
+- Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/master/News
 
 **4. ...**
 
