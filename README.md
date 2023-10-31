@@ -50,6 +50,47 @@ Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/m
 
 - Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/master/News
 
-**4. ...**
+**4. Wishes App**
+
+- Objective:
+    + Learn to use Retrofit to make API calls.
+    + Understand how to use Fragments.
+    + Know how to use SharedPreferences for local data storage.
+    + Familiarize yourself with supporting libraries (e.g., Glide for image loading, CircleImageView for display
+      circular image).
+
+<table>
+    <tr>
+        <td><img src="(https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/9ef60c2c-62ee-4e7e-a625-3f7d61d827e1" alt="Image 1" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/e0d963c6-b794-4f48-8339-bda7be9582de" alt="Image 2" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/420aabe6-1f10-4972-8230-de3ef0a0c27b" alt="Image 3" width="210" height="400"></td>
+    </tr>
+  <tr>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/fd5b0d3f-1973-42a6-baef-1bb09f9b8b8d" alt="Image 4" width="210" height="400"></td>
+    </tr>
+</table>
+
+- Project Configuration:
+
+    Add the following dependencies to the app module's gradle file:"
+```
+  android {
+    buildFeatures{
+        viewBinding = true
+    }
+  }
+  dependencies {
+    // retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.google.code.gson:gson:2.10.1'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    
+    // circle imageview
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    
+    // glide
+    implementation 'com.github.bumptech.glide:glide:4.16.0'
+}
+ ```
 
 **5. ...**
