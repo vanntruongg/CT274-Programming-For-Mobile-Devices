@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple">#8692f7</color>
+    <color name="red">#ff3b4a</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">B2012051_TranVanTruong_UocMo</string>
+    <string name="choose_avt">Chọn ảnh đại diện</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="have_account">Bạn đã có tài khoản</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="i_wish">Tôi ước ...</string>
+    <string name="login">Đăng nhập</string>
+    <string name="no_account">Bạn chưa có tài khoản?</string>
+    <string name="register">Đăng ký</string>
+    <string name="upload_avatar">Cập nhật ảnh đại diện</string>
+    <string name="username">Mã số sinh viên</string>
+    <style name="Base.Theme.B2012051_TranVanTruong_UocMo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.B2012051_TranVanTruong_UocMo" parent="Base.Theme.B2012051_TranVanTruong_UocMo"/>
+</resources>
