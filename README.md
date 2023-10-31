@@ -61,7 +61,7 @@ Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/m
 
 <table>
     <tr>
-        <td><img src="(https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/9ef60c2c-62ee-4e7e-a625-3f7d61d827e1" alt="Image 1" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/9ef60c2c-62ee-4e7e-a625-3f7d61d827e1" alt="Image 1" width="210" height="400"></td>
         <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/e0d963c6-b794-4f48-8339-bda7be9582de" alt="Image 2" width="210" height="400"></td>
         <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/420aabe6-1f10-4972-8230-de3ef0a0c27b" alt="Image 3" width="210" height="400"></td>
     </tr>
