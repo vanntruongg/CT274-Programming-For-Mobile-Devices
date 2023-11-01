@@ -53,10 +53,10 @@ Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/m
 **4. Wishes App**
 
 - Objective:
-    + Learn to use Retrofit to make API calls.
-    + Understand how to use Fragments.
-    + Know how to use SharedPreferences for local data storage.
-    + Familiarize yourself with supporting libraries (e.g., Glide for image loading, CircleImageView for display
+    + Learn to use [Retrofit](https://square.github.io/retrofit/) to make API calls.
+    + Understand how to use [Fragments](https://developer.android.com/guide/fragments).
+    + Know how to use [SharedPreferences](https://developer.android.com/reference/android/content/SharedPreferences) for local data storage.
+    + Familiarize yourself with supporting libraries (e.g., [Glide](https://www.geeksforgeeks.org/image-loading-caching-library-android-set-2/) for image loading, [CircleImageView](https://www.geeksforgeeks.org/how-to-create-a-circularimageview-in-android-using-hdodenhof-library/) for display
       circular image).
 
 <table>
