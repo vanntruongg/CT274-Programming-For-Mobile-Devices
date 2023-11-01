@@ -92,5 +92,6 @@ Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/m
     implementation 'com.github.bumptech.glide:glide:4.16.0'
 }
  ```
+- Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/master/WishesApp
 
 **5. ...**
