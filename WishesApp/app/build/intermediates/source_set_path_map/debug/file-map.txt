@@ -27,10 +27,10 @@ com.example.b2012051_tranvantruong_uocmo.app-lifecycle-viewmodel-2.6.1-25 C:\Use
 com.example.b2012051_tranvantruong_uocmo.app-core-ktx-1.9.0-26 C:\Users\Lenovo\.gradle\caches\transforms-3\f40534497e56e61b6341f95715d4b451\transformed\core-ktx-1.9.0\res
 com.example.b2012051_tranvantruong_uocmo.app-cardview-1.0.0-27 C:\Users\Lenovo\.gradle\caches\transforms-3\f6258c9338dc0fe367c50f1f943dd550\transformed\cardview-1.0.0\res
 com.example.b2012051_tranvantruong_uocmo.app-lifecycle-viewmodel-savedstate-2.6.1-28 C:\Users\Lenovo\.gradle\caches\transforms-3\f65fc4e33e9c6690c14e4fbae46679d5\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
-com.example.b2012051_tranvantruong_uocmo.app-pngs-29 D:\android\B2012051_TranVanTruong_UocMo\app\build\generated\res\pngs\debug
-com.example.b2012051_tranvantruong_uocmo.app-resValues-30 D:\android\B2012051_TranVanTruong_UocMo\app\build\generated\res\resValues\debug
-com.example.b2012051_tranvantruong_uocmo.app-packageDebugResources-31 D:\android\B2012051_TranVanTruong_UocMo\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.b2012051_tranvantruong_uocmo.app-packageDebugResources-32 D:\android\B2012051_TranVanTruong_UocMo\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.b2012051_tranvantruong_uocmo.app-merged_res-33 D:\android\B2012051_TranVanTruong_UocMo\app\build\intermediates\merged_res\debug
-com.example.b2012051_tranvantruong_uocmo.app-debug-34 D:\android\B2012051_TranVanTruong_UocMo\app\src\debug\res
-com.example.b2012051_tranvantruong_uocmo.app-main-35 D:\android\B2012051_TranVanTruong_UocMo\app\src\main\res
+com.example.b2012051_tranvantruong_uocmo.app-pngs-29 D:\android\ct274-kotlin\WishesApp\app\build\generated\res\pngs\debug
+com.example.b2012051_tranvantruong_uocmo.app-resValues-30 D:\android\ct274-kotlin\WishesApp\app\build\generated\res\resValues\debug
+com.example.b2012051_tranvantruong_uocmo.app-packageDebugResources-31 D:\android\ct274-kotlin\WishesApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.b2012051_tranvantruong_uocmo.app-packageDebugResources-32 D:\android\ct274-kotlin\WishesApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.b2012051_tranvantruong_uocmo.app-merged_res-33 D:\android\ct274-kotlin\WishesApp\app\build\intermediates\merged_res\debug
+com.example.b2012051_tranvantruong_uocmo.app-debug-34 D:\android\ct274-kotlin\WishesApp\app\src\debug\res
+com.example.b2012051_tranvantruong_uocmo.app-main-35 D:\android\ct274-kotlin\WishesApp\app\src\main\res

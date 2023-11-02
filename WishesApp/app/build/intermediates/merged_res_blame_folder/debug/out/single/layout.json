@@ -12,10 +12,6 @@
         "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\layout\\fragment_register.xml"
     },
     {
-        "merged": "com.example.b2012051_tranvantruong_uocmo.app-mergeDebugResources-32:/layout/fragment_wish_list.xml",
-        "source": "com.example.b2012051_tranvantruong_uocmo.app-main-35:/layout/fragment_wish_list.xml"
-    },
-    {
         "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-mergeDebugResources-32:\\layout\\fragment_add.xml",
         "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\layout\\fragment_add.xml"
     },
@@ -24,16 +20,12 @@
         "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\layout\\item_wish.xml"
     },
     {
-        "merged": "com.example.b2012051_tranvantruong_uocmo.app-mergeDebugResources-32:/layout/fragment_add.xml",
-        "source": "com.example.b2012051_tranvantruong_uocmo.app-main-35:/layout/fragment_add.xml"
-    },
-    {
         "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-mergeDebugResources-32:\\layout\\fragment_wish_list.xml",
         "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\layout\\fragment_wish_list.xml"
     },
     {
-        "merged": "com.example.b2012051_tranvantruong_uocmo.app-mergeDebugResources-32:/layout/fragment_update.xml",
-        "source": "com.example.b2012051_tranvantruong_uocmo.app-main-35:/layout/fragment_update.xml"
+        "merged": "com.example.b2012051_tranvantruong_uocmo.app-mergeDebugResources-32:/layout/item_wish.xml",
+        "source": "com.example.b2012051_tranvantruong_uocmo.app-main-35:/layout/item_wish.xml"
     },
     {
         "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-mergeDebugResources-32:\\layout\\fragment_login.xml",

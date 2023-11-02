@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:5:5-66
-11-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:5:22-64
+11-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:5:5-66
+11-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <permission
 13-->[androidx.core:core:1.9.0] C:\Users\Lenovo\.gradle\caches\transforms-3\3c11ddf1f1ffbda5ee4d54edb6c4ee68\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
@@ -24,45 +24,45 @@
 17-->[androidx.core:core:1.9.0] C:\Users\Lenovo\.gradle\caches\transforms-3\3c11ddf1f1ffbda5ee4d54edb6c4ee68\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:7:5-27:19
+19-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:7:5-27:19
 20        android:allowBackup="true"
-20-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:9:9-35
+20-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:9:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.9.0] C:\Users\Lenovo\.gradle\caches\transforms-3\3c11ddf1f1ffbda5ee4d54edb6c4ee68\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 22        android:dataExtractionRules="@xml/data_extraction_rules"
-22-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:10:9-65
+22-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:10:9-65
 23        android:debuggable="true"
 24        android:extractNativeLibs="false"
 25        android:fullBackupContent="@xml/backup_rules"
-25-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:11:9-54
+25-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:11:9-54
 26        android:icon="@mipmap/ic_launcher"
-26-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:12:9-43
+26-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:12:9-43
 27        android:label="@string/app_name"
-27-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:13:9-41
+27-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:13:9-41
 28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:14:9-54
+28-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:14:9-54
 29        android:supportsRtl="true"
-29-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:15:9-35
+29-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:15:9-35
 30        android:testOnly="true"
 31        android:theme="@style/Theme.B2012051_TranVanTruong_UocMo"
-31-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:16:9-66
+31-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:16:9-66
 32        android:usesCleartextTraffic="true" >
-32-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:8:9-44
+32-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:8:9-44
 33        <activity
-33-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:18:9-26:20
+33-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:18:9-26:20
 34            android:name="com.example.b2012051_tranvantruong_uocmo.activities.MainActivity"
-34-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:19:13-52
+34-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:19:13-52
 35            android:exported="true" >
-35-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:20:13-36
+35-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:20:13-36
 36            <intent-filter>
-36-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:21:13-25:29
+36-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:21:13-25:29
 37                <action android:name="android.intent.action.MAIN" />
-37-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:22:17-69
-37-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:22:25-66
+37-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:22:17-69
+37-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:22:25-66
 38
 39                <category android:name="android.intent.category.LAUNCHER" />
-39-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:24:17-77
-39-->D:\android\B2012051_TranVanTruong_UocMo\app\src\main\AndroidManifest.xml:24:27-74
+39-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:24:17-77
+39-->D:\android\ct274-kotlin\WishesApp\app\src\main\AndroidManifest.xml:24:27-74
 40            </intent-filter>
 41        </activity>
 42

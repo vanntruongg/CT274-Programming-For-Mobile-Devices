@@ -33,16 +33,16 @@ class UpdateFragment : Fragment() {
 
         mAppSharedPreferences = AppSharedPreferences(requireContext())
         idUser = mAppSharedPreferences.getIdUser("idUser").toString()
-        idWish = mAppSharedPreferences.getIdUser("idWish").toString()
-        fullName = mAppSharedPreferences.getIdUser("fullName").toString()
-        content = mAppSharedPreferences.getIdUser("content").toString()
+        idWish = mAppSharedPreferences.getWish("idWish").toString()
+        fullName = mAppSharedPreferences.getWish("fullName").toString()
+        content = mAppSharedPreferences.getWish("content").toString()
 
         binding.editFullName.setText(fullName)
         binding.editContent.setText(content)
 
         binding.apply {
             btnSave.setOnClickListener {
-                if(editFullName.text.isNotEmpty() && editContent.text.isNotEmpty()) {
+                if (editFullName.text.isNotEmpty() && editContent.text.isNotEmpty()) {
                     fullName = editFullName.text.toString().trim()
                     content = editContent.text.toString().trim()
 
@@ -58,16 +58,17 @@ class UpdateFragment : Fragment() {
         binding.progressBar.visibility = View.VISIBLE
         CoroutineScope(Dispatchers.IO).launch {
             withContext(Dispatchers.Main) {
-                val response = ObjectConstants.getInstance().updateWish(RequestUpdateWish(idUser, idWish, fullName, content)).body()
+                val response = ObjectConstants.getInstance()
+                    .updateWish(RequestUpdateWish(idUser, idWish, fullName, content)).body()
 
                 if (response != null) {
                     binding.progressBar.visibility = View.GONE
-                    Toast.makeText(requireContext(), response.message, Toast.LENGTH_SHORT).show()
-                    if(response.success) {
+                    if (response.success) {
+                        Toast.makeText(requireContext(), response.message, Toast.LENGTH_SHORT).show()
                         requireActivity().supportFragmentManager.beginTransaction()
                             .replace(R.id.frameLayout, WishListFragment()).commit()
                     } else {
-//                        Toast.makeText(requireContext(), response.message, Toast.LENGTH_SHORT).show()
+                        Toast.makeText(requireContext(), response.message, Toast.LENGTH_SHORT).show()
                         requireActivity().supportFragmentManager.beginTransaction()
                             .replace(R.id.frameLayout, LoginFragment()).commit()
                     }
@@ -75,5 +76,4 @@ class UpdateFragment : Fragment() {
             }
         }
     }
-
 }

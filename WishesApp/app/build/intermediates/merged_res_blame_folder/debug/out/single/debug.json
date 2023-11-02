@@ -4,20 +4,12 @@
         "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:/layout_fragment_update.xml.flat",
-        "source": "com.example.b2012051_tranvantruong_uocmo.app-main-35:/layout/fragment_update.xml"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:\\drawable_bg_login.jpg.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\drawable\\bg_login.jpg"
-    },
-    {
         "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:/layout_fragment_add.xml.flat",
-        "source": "com.example.b2012051_tranvantruong_uocmo.app-main-35:/layout/fragment_add.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:\\drawable_bg_login.jpg.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\drawable\\bg_login.jpg"
     },
     {
         "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
@@ -30,6 +22,10 @@
     {
         "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:\\layout_item_wish.xml.flat",
         "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\layout\\item_wish.xml"
+    },
+    {
+        "merged": "com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:/layout_item_wish.xml.flat",
+        "source": "com.example.b2012051_tranvantruong_uocmo.app-main-35:/layout/item_wish.xml"
     },
     {
         "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:\\drawable_ic_add.xml.flat",
@@ -48,20 +44,12 @@
         "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:/drawable_ic_add.xml.flat",
-        "source": "com.example.b2012051_tranvantruong_uocmo.app-main-35:/drawable/ic_add.xml"
-    },
-    {
-        "merged": "com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:/layout_fragment_wish_list.xml.flat",
-        "source": "com.example.b2012051_tranvantruong_uocmo.app-main-35:/layout/fragment_wish_list.xml"
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\drawable\\ic_edit.xml"
     },
     {
         "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:\\drawable_ic_edit.xml.flat",
-        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\drawable\\ic_edit.xml"
     },
     {
         "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -130,10 +118,6 @@
     {
         "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:\\layout_fragment_update.xml.flat",
         "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-main-35:\\layout\\fragment_update.xml"
-    },
-    {
-        "merged": "com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:/drawable_ic_user.xml.flat",
-        "source": "com.example.b2012051_tranvantruong_uocmo.app-main-35:/drawable/ic_user.xml"
     },
     {
         "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.b2012051_tranvantruong_uocmo.app-merged_res-33:\\layout_activity_main.xml.flat",

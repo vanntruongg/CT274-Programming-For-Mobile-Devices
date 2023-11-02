@@ -17,15 +17,8 @@ class WishAdapter(
     private val appSharedPreferences: AppSharedPreferences,
     private val iClickItemWish: IClickItemWish
 ) : RecyclerView.Adapter<WishAdapter.WishViewHolder>() {
-    private lateinit var binding: ItemWishBinding
 
     class WishViewHolder(val binding: ItemWishBinding) : RecyclerView.ViewHolder(binding.root)
-
-
-    interface IClickItemWish {
-        fun onClickUpdate(idWish: String, fullName: String, content: String)
-        fun onClickRemove(idWish: String)
-    }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): WishViewHolder {
         return WishViewHolder(
@@ -55,6 +48,9 @@ class WishAdapter(
         if(appSharedPreferences.getIdUser("idUser").toString() == wish.owner._id) {
             holder.binding.imgUpdate.visibility = View.VISIBLE
             holder.binding.imgDelete.visibility = View.VISIBLE
+        } else {
+            holder.binding.imgUpdate.visibility = View.GONE
+            holder.binding.imgDelete.visibility = View.GONE
         }
 
         // bat su kien click vao nut xoa va cap nhat
@@ -67,7 +63,10 @@ class WishAdapter(
             iClickItemWish.onClickRemove(wish._id)
         }
 
+    }
 
-
+    interface IClickItemWish {
+        fun onClickUpdate(idWish: String, fullName: String, content: String)
+        fun onClickRemove(idWish: String)
     }
 }

@@ -42,25 +42,6 @@
                     }
                 },
                 {
-                    "source": "D:\\android\\B2012051_TranVanTruong_UocMo\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "100,343",
-                        "endLines": "5,7",
-                        "endColumns": "12,104",
-                        "endOffsets": "337,443"
-                    },
-                    "to": {
-                        "startLines": "2470,6362",
-                        "startColumns": "4,4",
-                        "startOffsets": "173189,445189",
-                        "endLines": "2473,6362",
-                        "endColumns": "12,103",
-                        "endOffsets": "173320,445288"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-3\\d2c2cafc90d598b775e4bfe93c5b3c3d\\transformed\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -77,23 +58,6 @@
                         "endLines": "506,1104,1105,1106,1114,1115,1116,1801,12604",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "25672,66072,66120,66176,66862,66938,67010,120118,762749"
-                    }
-                },
-                {
-                    "source": "D:\\android\\B2012051_TranVanTruong_UocMo\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,8,9,6,12,10,2,4,5,7,3",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "16,411,468,286,617,516,82,179,241,347,126",
-                        "endColumns": "65,56,47,60,69,46,43,61,44,63,52",
-                        "endOffsets": "77,463,511,342,682,558,121,236,281,406,174"
-                    },
-                    "to": {
-                        "startLines": "1968,1979,1988,1989,1990,1992,1995,2102,2108,2118,2119",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "130330,131933,132697,132745,132806,133029,133289,148862,149726,150751,150815",
-                        "endColumns": "65,56,47,60,69,46,43,61,44,63,52",
-                        "endOffsets": "130391,131985,132740,132801,132871,133071,133328,148919,149766,150810,150863"
                     }
                 },
                 {
@@ -147,6 +111,25 @@
                         "startOffsets": "123431",
                         "endColumns": "49",
                         "endOffsets": "123476"
+                    }
+                },
+                {
+                    "source": "D:\\android\\ct274-kotlin\\WishesApp\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,350",
+                        "endLines": "5,7",
+                        "endColumns": "12,104",
+                        "endOffsets": "342,450"
+                    },
+                    "to": {
+                        "startLines": "2470,6362",
+                        "startColumns": "4,4",
+                        "startOffsets": "173189,445189",
+                        "endLines": "2473,6362",
+                        "endColumns": "12,103",
+                        "endOffsets": "173320,445288"
                     }
                 },
                 {
@@ -207,23 +190,6 @@
                     }
                 },
                 {
-                    "source": "D:\\android\\B2012051_TranVanTruong_UocMo\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,4,5,3",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,139,180,97",
-                        "endColumns": "41,40,37,41",
-                        "endOffsets": "92,175,213,134"
-                    },
-                    "to": {
-                        "startLines": "640,945,946,959",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "32798,55527,55568,56424",
-                        "endColumns": "41,40,37,41",
-                        "endOffsets": "32835,55563,55601,56461"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-3\\dec4614628d7a9d2a5f1f5197247ace1\\transformed\\constraintlayout-2.1.4\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,9,10,15,16,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,42,43,44,45,55,63,64,65,70,71,76,81,82,83,88,89,94,95,100,101,102,108,109,110,115,121,122,123,124,130,131,132,133,136,139,142,143,146,149,150,151,152,153,156,159,160,161,162,168,173,176,179,180,181,186,187,188,191,194,195,198,201,204,207,208,209,212,215,216,221,222,228,233,236,239,240,241,242,243,244,245,246,247,248,249,250,266,272,273,274,275,276,283,289,290,291,294,299,300,308,309,310,311,312,313,314,315,324,325,326,332,333,339,343,344,345,346,347,356,360,361,362,380,566,694,700,704,874,1026,1039,1055,1080,1103,1106,1109,1112,1141,1168,1185,1271,1279,1292,1308,1312,1342,1355,1359,1369,1379,1423,1436,1440,1443,1459,1500,1535,1542,1559",
@@ -260,6 +226,23 @@
                     }
                 },
                 {
+                    "source": "D:\\android\\ct274-kotlin\\WishesApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,8,9,6,12,10,2,4,5,7,3",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,419,477,292,633,526,84,183,246,354,129",
+                        "endColumns": "65,56,47,60,69,46,43,61,44,63,52",
+                        "endOffsets": "78,471,520,348,698,568,123,240,286,413,177"
+                    },
+                    "to": {
+                        "startLines": "1968,1979,1988,1989,1990,1992,1995,2102,2108,2118,2119",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "130330,131933,132697,132745,132806,133029,133289,148862,149726,150751,150815",
+                        "endColumns": "65,56,47,60,69,46,43,61,44,63,52",
+                        "endOffsets": "130391,131985,132740,132801,132871,133071,133328,148919,149766,150810,150863"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-3\\7fc902c3bc1ffd5a45b53010756c04c8\\transformed\\transition-1.2.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -291,6 +274,23 @@
                         "startOffsets": "121247,123317",
                         "endColumns": "41,59",
                         "endOffsets": "121284,123372"
+                    }
+                },
+                {
+                    "source": "D:\\android\\ct274-kotlin\\WishesApp\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,4,5,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,143,185,100",
+                        "endColumns": "41,40,37,41",
+                        "endOffsets": "94,179,218,137"
+                    },
+                    "to": {
+                        "startLines": "640,945,946,959",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "32798,55527,55568,56424",
+                        "endColumns": "41,40,37,41",
+                        "endOffsets": "32835,55563,55601,56461"
                     }
                 },
                 {
