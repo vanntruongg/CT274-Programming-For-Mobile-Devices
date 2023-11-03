@@ -7,8 +7,8 @@
 
 <table>
     <tr>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/3d3ffc4d-eea6-4353-b2e2-8f5924d42f63" alt="Image 1" width="210" height="400"></td>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/36850d7a-3785-46bd-9263-67ee0ce35e59" alt="Image 2" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/9c2247b7-7777-438c-bf3c-428ad3c3ecad" alt="Image 1" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/f146eda3-0575-4974-bbbd-b9c558de14e8" alt="Image 2" width="210" height="400"></td>
     </tr>
 </table>
 
@@ -17,12 +17,12 @@
 **2. Quiz App**
 <table>
     <tr>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/0d3f19a3-227b-4269-9987-8988b18a4034" alt="Image 1" width="210" height="400"></td>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/5399222a-f63b-4c3f-99ac-1d464b0497bc" alt="Image 2" width="210" height="400"></td>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/559c4812-a5a1-434d-a892-5c85c47d8de3" alt="Image 3" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/4dc3626d-02a8-4940-a34c-1e14993fbe0c" alt="Image 1" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/d00ea9c9-8c26-4701-bd34-7165ff306565" alt="Image 2" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/af3abac0-5363-4a6c-9b4c-4a6c0ad75688" alt="Image 3" width="210" height="400"></td>
     </tr>
     <tr>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/5e5180ee-282c-4b1c-ab94-e9e2ea0da754" alt="Image 4" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/ab7adb79-965a-464d-afa9-02b71abd1a10" alt="Image 4" width="210" height="400"></td>
     </tr>
 </table>
 
@@ -42,9 +42,9 @@ Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/m
 
 <table>
     <tr>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/fb8c6270-5ea6-408a-b92f-2d1455e1b55c" alt="Image 1" width="210" height="400"></td>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/90aa6a2c-4415-49a1-bcf4-dd0ae230f950" alt="Image 2" width="210" height="400"></td>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/36e77db4-e36e-4c5b-bac3-9c1a125cc974" alt="Image 3" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/a99c4200-902e-4da7-b0fe-fb5bfdfbb3ba" alt="Image 1" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/212b6687-f0b0-453e-bfd7-55b707ddeec4" alt="Image 2" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/20aa27fc-e3f6-4a60-969e-c2571e68673f" alt="Image 3" width="210" height="400"></td>
     </tr>
 </table>
 
@@ -61,12 +61,12 @@ Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/m
 
 <table>
     <tr>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/9ef60c2c-62ee-4e7e-a625-3f7d61d827e1" alt="Image 1" width="210" height="400"></td>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/e0d963c6-b794-4f48-8339-bda7be9582de" alt="Image 2" width="210" height="400"></td>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/420aabe6-1f10-4972-8230-de3ef0a0c27b" alt="Image 3" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/e551dae3-f1ec-4c4f-a665-7adc79766e60" alt="Image 1" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/e3a71866-6b90-48db-a0aa-b077bc8f40a9" alt="Image 2" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/9a733268-f5bf-4045-ab19-8f154138fb55" alt="Image 3" width="210" height="400"></td>
     </tr>
   <tr>
-        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/fd5b0d3f-1973-42a6-baef-1bb09f9b8b8d" alt="Image 4" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/2c908163-2e7b-441c-90c3-25f3a6dd55a1" alt="Image 4" width="210" height="400"></td>
     </tr>
 </table>
 
