@@ -72,7 +72,7 @@ Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/m
 
 - Project Configuration:
 
-    Add the following dependencies to the app module's gradle file:"
+    Add the following dependencies to the app module's gradle file:
 ```
   android {
     buildFeatures{
@@ -94,4 +94,21 @@ Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/m
  ```
 - Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/master/WishesApp
 
-**5. ...**
+**5. MyMap**
+
+- Objective:
+  + Guide to programming Google Map on Android
+  + Display the list of places using RecyclerView
+  + Using Serializable Data Transmission via Intent
+  + Use the AlertDialog
+
+- Project Configuration:
+  Add the plugin:
+```
+plugin {
+    id("com.google.android.libraries.mapsplatform.secrets-gradle-plugin")
+}
+```
+
+- Link: ...
+
