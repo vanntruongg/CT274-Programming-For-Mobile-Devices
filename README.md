@@ -97,10 +97,10 @@ Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/m
 **5. MyMap**
 
 - Objective:
-  + Guide to programming Google Map on Android
-  + Display the list of places using RecyclerView
-  + Using Serializable Data Transmission via Intent
-  + Use the AlertDialog
+  + Guide to programming [Google Map](https://developers.google.com/maps/documentation/android-sdk/start) on Android
+  + Display the list of places using [RecyclerView](https://developer.android.com/develop/ui/views/layout/recyclerview)
+  + Using [Serializable](https://developer.android.com/reference/java/io/Serializable) Data Transmission via Intent
+  + Use the [AlertDialog](https://developer.android.com/reference/android/app/AlertDialog)
 
 <table>
     <tr>
@@ -123,5 +123,5 @@ plugin {
 }
 ```
 
-- Link: 
+- Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/master/MyMap
 
