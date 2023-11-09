@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyMap</string>
+    <string name="title_activity_create_map">CreateMapActivity</string>
+    <string name="title_activity_display_map">DisplayMapActivity</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <item name="actionBarTheme">@style/ThemeOverlay.Actionbar</item>
+    </style>
+    <style name="Base.Theme.MyMap" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyMap" parent="Base.Theme.MyMap"/>
+    <style name="ThemeOverlay.Actionbar" parent="ThemeOverlay.MaterialComponents.ActionBar.Surface">
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+</resources>

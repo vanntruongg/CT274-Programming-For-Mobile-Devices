@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.mymap.app-mergeDebugResources-33:/layout/dialog_create_place.xml",
+        "source": "com.example.mymap.app-main-36:/layout/dialog_create_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.mymap.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.mymap.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.mymap.app-mergeDebugResources-33:/layout/activity_create_map.xml",
+        "source": "com.example.mymap.app-main-36:/layout/activity_create_map.xml"
+    },
+    {
+        "merged": "com.example.mymap.app-mergeDebugResources-33:/layout/dialog_create_map.xml",
+        "source": "com.example.mymap.app-main-36:/layout/dialog_create_map.xml"
+    },
+    {
+        "merged": "com.example.mymap.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.example.mymap.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.mymap.app-mergeDebugResources-33:\\layout\\row_place.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.mymap.app-main-36:\\layout\\row_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.mymap.app-mergeDebugResources-33:\\layout\\activity_display_map.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.mymap.app-main-36:\\layout\\activity_display_map.xml"
+    }
+]
