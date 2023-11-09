@@ -102,7 +102,20 @@ Link: https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/tree/m
   + Using Serializable Data Transmission via Intent
   + Use the AlertDialog
 
+<table>
+    <tr>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/ce0706a8-6630-4a27-9fd1-65206b1c17c1" alt="Image 1" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/b5f50bfb-36ef-4a6a-a4d5-77ced78f3ba3" alt="Image 2" width="210" height="400"></td>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/7a147702-5c33-4caf-9e73-b2b12a0e3e46" alt="Image 3" width="210" height="400"></td>
+    </tr>
+  <tr>
+        <td><img src="https://github.com/vanntruongg/CT274-Programming-For-Mobile-Devices/assets/103330978/815fab6f-7b98-42ea-b913-ad3009d6f19d" alt="Image 4" width="210" height="400"></td>
+    </tr>
+</table>
+
+
 - Project Configuration:
+
   Add the plugin:
 ```
 plugin {
@@ -110,5 +123,5 @@ plugin {
 }
 ```
 
-- Link: ...
+- Link: 
 
